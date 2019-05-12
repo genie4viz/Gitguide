@@ -1,0 +1,229 @@
+﻿-cesium relationship
+https://huangwang.github.io/2018/05/11/Vue-js%E9%9B%86%E6%88%90Cesium/
+https://github.com/zouyaoji/vue-cesium
+
+
+-webpack setting(important)
+https://cesium.com/docs/tutorials/cesium-and-webpack/
+
+-react lifecycle
+https://velopert.com/1130
+
+-nodejs
+
+http://s13.bitdownload.ir/Learning.3/Lynda/
+
+netstat -ano | findstr :3000
+taskkill /PID 3000 /F
+
+-realistic data generator
+https://www.mockaroo.com/
+
+-es6 modules
+http://exploringjs.com/es6/ch_modules.html
+
+https://medium.freecodecamp.org/how-to-use-es6-modules-and-why-theyre-important-a9b20b480773
+-json viewer
+https://codebeautify.org/jsonviewer
+
+http://preview.codecanyon.net/item/picturish-image-hosting-editing-and-sharing/full_screen_preview/11909554?_ga=2.29522235.527549567.1548189419-300357456.1548189419
+
+-github증설 및 정리(part-time)
+
+-make my site url : https://pages.github.com/
+-meteor.js
+https://mobicon.tistory.com/466
+
+d3v4 new
+https://iros.github.io/d3-v4-whats-new/#8
+
+1. cli git command 
+-먼저 빈레포를 만든다
+-빈레포를 클론한다
+-clone한 또는(create-react-app)한 프로젝트의 모든파일(.git)는 제외)를 클론된 프로젝트안에 복사
+-git add ./실행
+-git status, git branch --unset-upstream
+-git commit -m "message"
+-git push -u origin master
+the end
+
+-pull 지령을 실행하기전에
+checkout ./을 실행해야한다.
+-branch생성
+git branch:branch목록보기
+git branch 'branch name'
+git checkout develop
+git commit -a -m 'msg'
+현재판본수정
+git checkout master
+git merge develop
+이전 branch지우기
+git branch -d develop
+end
+the end
+
+2. mobx
+3. boilerplate into here.
+3-1. Typescript
+typescript quickstart
+https://velog.io/@honeysuckle/%EC%B1%85-%EB%A6%AC%EB%B7%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%80%B5%EC%8A%A4%ED%83%80%ED%8A%B8
+4. node.js, es6,7
+5. graphQL
+
+npm install --save-dev css-loader
+npm install style-loader --save-dev
+
+react
+
+https://egghead.io/lessons/egghead-why-use-typescript-with-react
+
+redux-learn
+https://velog.io/@velopert/Redux-3-%EB%A6%AC%EB%8D%95%EC%8A%A4%EB%A5%BC-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-nvjltahf5e
+
+mobx-learn
+https://velog.io/@velopert/MobX-1-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-9sjltans3p
+useful-react keyword : reactjs mobx boilerplate
+mobx-boilerplate
+https://github.com/mobxjs/mobx-react-boilerplate.git
+https://github.com/mobxjs/react-mobx-boilerplate.git
+https://mobx.js.org/faq/boilerplates.html
+https://medium.com/teachable/getting-started-with-react-typescript-mobx-and-webpack-4-8c680517c030
+https://www.npmjs.com/package/react-mobx-react-router-boilerplate
+http://boilerplate.mhaagens.me/
+https://www.robinwieruch.de/create-react-app-mobx-decorators/
+https://reactjsexample.com/react-mobx-react-router-and-webpack-boilerplate-with-async-routes/
+
+react
+
+https://egghead.io/lessons/egghead-why-use-typescript-with-react
+
+redux-learn
+https://velog.io/@velopert/Redux-3-%EB%A6%AC%EB%8D%95%EC%8A%A4%EB%A5%BC-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-nvjltahf5e
+
+mobx-learn
+https://velog.io/@velopert/MobX-1-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-9sjltans3p
+useful-react keyword : reactjs mobx boilerplate
+mobx-boilerplate
+https://github.com/mobxjs/mobx-react-boilerplate.git
+https://github.com/mobxjs/react-mobx-boilerplate.git
+https://mobx.js.org/faq/boilerplates.html
+https://medium.com/teachable/getting-started-with-react-typescript-mobx-and-webpack-4-8c680517c030
+https://www.npmjs.com/package/react-mobx-react-router-boilerplate
+http://boilerplate.mhaagens.me/
+https://www.robinwieruch.de/create-react-app-mobx-decorators/
+https://reactjsexample.com/react-mobx-react-router-and-webpack-boilerplate-with-async-routes/
+
+Barchart: https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/
+
+svg creator
+https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html
+select box : good for use
+https://select2.org/data-sources
+
+awesome-font
+https://fontawesome.com/v4.7.0/icon/arrow-down
+flex
+http://flexboxgrid.com/
+
+graphQL
+https://velopert.com/2389
+
+JWT.IO 는 브라우저 상에서 JWT 토큰을 검증하고 생성 할 수 있게 해주는 디버거 서비스
+https://jwt.io/
+here velog.io
+https://velog.io/search?q=typescript
+
+-react-responsive design
+https://react.semantic-ui.com/layouts/homepage
+
+-semantic-boilerplate
+https://github.com/Semantic-Org/Semantic-UI-React/tree/master/examples/webpack3
+
+-react simple tester
+https://stackblitz.com/edit/react-ecn7ma?file=05_context.js
+
+-git pull
+git checkout head ./
+네가 로컬에서 수정한거 다 무효루 되
+서버에걸루 갱신되
+만약 어떤 commit의 걸 받자면
+git checkout 코및번호
+git pull
+
+https://cesiumjs.org/Cesium/Build/Apps/Sandcastle/?src=3D%20Tiles%20Feature%20Picking.html&label=All
+
+https://cesiumjs.org/Cesium/Apps/Sandcastle/index.html?src=Hello%20World.html&label=Showcases&gist=54a2252d95768ca89d23948ad010356a
+
+
+-d3v5 tutorial
+https://github.com/sgratzl/d3tutorial
+
+-svg test drawer
+
+https://codepen.io/anon/pen/GLqqep
+
+http://definitelytyped.org/docs/fabricjs--fabricjs/interfaces/fabric.itext.html
+
+-react-hook
+https://www.sitepoint.com/react-hooks/?utm_campaign=1121036&utm_source=sendpulse&utm_medium=push
+
+리액을 위한 웹팩
+https://velog.io/@padakim/Webpack4-for-React-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9B%B9%ED%8C%A94-1-
+
+react.org\hooks
+
+-d3.js datamanipulating
+https://www.d3-graph-gallery.com/graph/basic_datamanipulation.html
+
+http://learnjsdata.com/group_data.html
+
+http://learnjsdata.com/summarize_data.html
+
+https://www.d3-graph-gallery.com/index.html
+
+https://zouyaoji.top/vue-cesium/
+
+-npm install 
+rm -rf node_modules
+node_modules강제지우기
+
+-usePrevous, useMemo
+useMemo(()=> <>, (prev, cur));
+
+https://medium.com/trabe/passing-callbacks-down-with-react-hooks-4723c4652aff
+
+-best-hooks + context + reducer
+https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext/#usereducer-reducer-hook
+
+-https://medium.com/crowdbotics/how-to-use-usereducer-in-react-hooks-for-performance-optimization-ecafca9e7bf5
+-rendering optimization
+https://medium.freecodecamp.org/yeah-hooks-are-good-but-have-you-tried-faster-react-components-e698a8db468c
+
+깃합 되돌리기
+이거 깃합 push했던거 이전에 거 되돌리는거 어떻게 하더라?
+
+Robin [12:15 AM]
+git reset HEAD
+
+Selis Aton [12:15 AM]
+이전의 어떤 commit 시점으로 가려구 한다면?
+
+Robin [12:15 AM]
+git checkout commitNO
+그러나 이건 server에거 되돌리는건 아니야
+그저 로컬의 소스를 되돌릴뿐이지
+
+Selis Aton [12:16 AM]
+오.. 그러니까 git checkout commit No쓰면 현재 내 로컬에있는 쏘스는 없어지구 원래거루 되돌려지니?
+
+Robin [12:16 AM]
+응
+네가 수정한거 있으면 안되
+그거부터 처리하라고 나와
+
+Selis Aton [12:17 AM]
+그런경우엔 먼저 commit하구 서버에 푸시한다음에 되돌려야하지?
+
+Robin [12:17 AM]
+응
+푸시까진 안해도 되
